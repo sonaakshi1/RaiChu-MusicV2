@@ -55,10 +55,10 @@ Feel free to add me to your groups.
                     ),
                   ],[
                     InlineKeyboardButton(
-                       "Updates", url=f"https://t.me/{UPDATES_CHANNEL}"
+                       "🌸 Developer", url=f"https://t.me/deweni2"
                     ),
                     InlineKeyboardButton(
-                       "Support", url=f"https://t.me/{GROUP_SUPPORT}"
+                       "💪 Support", url=f"https://t.me/+3u2wzv4Uq4RmMzc1"
                     )
                 ],[
                     InlineKeyboardButton(
